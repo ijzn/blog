@@ -1,1 +1,1 @@
-module.exports = 'assda'
+module.exports = 'jzn'
