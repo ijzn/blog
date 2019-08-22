@@ -82,5 +82,5 @@ read2().then(data => {
  * 2. promise.try
  * 3. promise.race 谁快用谁
  * 4. 如何终止一个promise 不要当前这个promie结果
- * 5. 如何中断promise链
+ * 5. 如何中断promise链 
  */
