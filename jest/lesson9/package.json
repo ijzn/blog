@@ -1,7 +1,6 @@
 {
   "name": "lesson8",
   "version": "1.0.0",
-  "description": "``` // 生成快照对比 expect(generrateConfig()).toMatchSnapshot() ``` 如果依赖发生更新(即demo中的代码发生变化)，在终端中摁 w 进去筛选模式，确认更新快照 则摁 u 去更新。",
   "main": "main.js",
   "dependencies": {
     "axios": "^0.19.0"
@@ -18,5 +17,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": "mock的深入了解"
 }
