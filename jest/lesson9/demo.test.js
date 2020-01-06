@@ -3,7 +3,7 @@ import { fetchData } from './demo1';
 const { getNumber } = jest.requireActual('./demo1.js')
 test('fetchData 测试', async() => {
   return fetchData().then(res => {
-    expect(data).toEqual('123')
+    expect(res).toEqual('123')
   });
 })
 

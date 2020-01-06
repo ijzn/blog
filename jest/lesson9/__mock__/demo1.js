@@ -4,5 +4,3 @@ export function fetchData() {
         resolve("123")
     })
 }
-
-fetchData().then(res => console.log(res))
