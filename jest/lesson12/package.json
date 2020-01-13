@@ -1,0 +1,23 @@
+{
+  "name": "lesson11",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "jest": "^24.9.0",
+    "prettier": "^1.19.1"
+  },
+  "scripts": {
+    "test": "jest --watch",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "jest对DOM操作的测试"
+}
