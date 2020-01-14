@@ -29,7 +29,7 @@ jest默认是只认识commonJS 因为jest默认运行在node的环境中。
     ]
 }
 ```
-3. npm run jest
+3. npm run test
 
 实现原理：
 1. npm run jest 的时候
